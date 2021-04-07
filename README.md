@@ -1,4 +1,4 @@
-# About
+# alacritty config
 Configuration for fast terminal emulator called alacritty.
 
 ## alacritty config location (linux)
