@@ -222,9 +222,9 @@ colors:
   #search:
     # Allowed values are CellForeground and CellBackground, which reference the
     # affected cell, or hexadecimal colors like #ff00ff.
-    matches:
-      foreground: '#000000'
-      background: '#ffffff'
+    #matches:
+    #  foreground: '#000000'
+    #  background: '#ffffff'
 
     #bar:
     #  background: '#c5c8c6'
@@ -232,25 +232,25 @@ colors:
 
   # Normal colors
   normal:
-    black:   '#000000'
+    black:   '#282a36'
     red:     '#ff5555'
     green:   '#50fa7b'
     yellow:  '#f1fa8c'
-    blue:    '#caa9fa'
+    blue:    '#bd93f9'
     magenta: '#ff79c6'
     cyan:    '#8be9fd'
-    white:   '#bfbfbf'
+    white:   '#f8f8f2'
 
 # Bright colors
   bright:
-    black:   '#575b70'
-    red:     '#ff6e67'
-    green:   '#5af78e'
-    yellow:  '#f4f99d'
-    blue:    '#caa9fa'
-    magenta: '#ff92d0'
-    cyan:    '#9aedfe'
-    white:   '#e6e6e6' 
+    black:   '#282a36'
+    red:     '#ff5555'
+    green:   '#50fa7b'
+    yellow:  '#f1fa8c'
+    blue:    '#bd93f9'
+    magenta: '#ff79c6'
+    cyan:    '#8be9fd'
+    white:   '#f8f8f2' 
 
   # Dim colors
   #
