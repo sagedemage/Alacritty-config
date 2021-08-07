@@ -239,11 +239,11 @@ colors:
     blue:    '#bd93f9'
     magenta: '#ff79c6'
     cyan:    '#8be9fd'
-    white:   '#f8f8f2'
+    white:   '#a7a7a3'
 
 # Bright colors
   bright:
-    black:   '#282a36'
+    black:   '#9497ad'
     red:     '#ff5555'
     green:   '#50fa7b'
     yellow:  '#f1fa8c'
