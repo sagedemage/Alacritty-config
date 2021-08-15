@@ -7,9 +7,9 @@ Configuration for fast terminal emulator called alacritty.
 ```
 
 # alacritty desktop file location
-`
+```
 $HOME/.local/share/applications
-`
+```
 ``
 $HOME=/home/user
 ``
