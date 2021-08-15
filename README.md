@@ -6,7 +6,7 @@ Configuration for fast terminal emulator called alacritty.
 ~/.config/alacritty/alacritty.yml
 ```
 
-# alacritty desktop file location
+## alacritty desktop file location
 ```
 $HOME/.local/share/applications
 ```
