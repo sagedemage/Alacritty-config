@@ -1,6 +1,9 @@
 # alacritty config
 Configuration for fast terminal emulator called alacritty.
 
+## screenshot
+![](/screenshot/alacritty-linuxmint.png)
+
 ## alacritty config location (linux)
 ```
 ~/.config/alacritty/alacritty.yml
