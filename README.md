@@ -10,6 +10,7 @@ Configuration for fast terminal emulator called alacritty.
 ```
 $HOME/.local/share/applications
 ```
+$HOME=/home/user
 
 ### Terminal Theme
 ***Dracula***<br>
