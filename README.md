@@ -2,7 +2,14 @@
 Configuration for fast terminal emulator called alacritty.
 
 ## alacritty config location (linux)
+```
 ~/.config/alacritty/alacritty.yml
+```
+
+# alacritty desktop file location
+```
+$HOME/.local/share/applications
+```
 
 ### Terminal Theme
 ***Dracula***<br>
