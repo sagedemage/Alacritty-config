@@ -2,7 +2,7 @@
 Configuration for fast terminal emulator called alacritty.
 
 ## screenshot
-![](/screenshot/alacritty-linuxmint.png)
+![](/screenshot/alacritty-debian.png)
 
 ## alacritty config location (linux)
 ```
