@@ -18,5 +18,5 @@ $HOME=/home/user
 ``
 
 ### Terminal Theme
-***Dracula***<br>
-https://github.com/dracula/dracula-theme <br>
+***iTerm 2***<br>
+https://iterm2colorschemes.com/\
