@@ -18,5 +18,5 @@ $HOME=/home/user
 ``
 
 ### Terminal Theme
-***iTerm 2***<br>
-https://iterm2colorschemes.com/\
+***iTerm 2***\
+https://iterm2colorschemes.com/
